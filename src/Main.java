@@ -18,7 +18,7 @@ public class Main {
     }
 
     public static void testErrorLog() {
-        System.out.print("abra-kadabra");
+        System.out.print("abra-kadabra");//какаято логика
         logger.error("error message is correct");
     }
 }
